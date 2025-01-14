@@ -7,10 +7,6 @@
 <p align="center">
   The first iteration of <a href="https://yashitanamdeo.github.io/" target="_blank">Eldo Macuacua's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-<!-- <p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p> -->
 
 <div align="center">
   <img alt="Demo" src="https://github.com/eldoJr/eldomacuacua.github/blob/main/previw.png" />
@@ -40,13 +36,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [Yashi
    yarn
    ```
 
-4. Install Crypto
-
-   ```sh
-   yarn add crypto-browserify stream-browserify
-   ```
-
-5. Start the development server
+4. Start the development server
 
    ```sh
    npm start
