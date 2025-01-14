@@ -33,14 +33,20 @@ Yes, you can fork this repo. Please give proper credit by linking back to [Yashi
    ```sh
    nvm install
    ```
-
+   
 3. Install dependencies
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+4. Install Crypto
+
+   ```sh
+   yarn add crypto-browserify stream-browserify
+   ```
+
+5. Start the development server
 
    ```sh
    npm start
