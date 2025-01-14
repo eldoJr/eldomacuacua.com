@@ -13,7 +13,7 @@
 </p> -->
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/eldoJr/eldomacuacua.github/blob/main/previw.png" />
 </div>
 
 ### TL;DR
@@ -64,9 +64,9 @@ Yes, you can fork this repo. Please give proper credit by linking back to [Yashi
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| BG           | ![#0d1017](https://via.placeholder.com/10/0a192f?text=+) `#0d1017` |
-| Light Orange   | ![#ff5733](https://via.placeholder.com/10/0a192f?text=+) `#ff5733` |
-| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#303C55` |
+| BG             | ![#0d1017](https://via.placeholder.com/10/0a192f?text=+) `#0d1017` |
+| Light Orange   | ![#ff5733](https://htmlcolorcodes.com/#:~:text=HEX-,%23FF5733,-RGB) `#ff5733` |
+| Bluish-gray    | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#303C55` |
 | Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
 | Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
