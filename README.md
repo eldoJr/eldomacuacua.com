@@ -33,7 +33,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [Yashi
 3. Install dependencies
 
    ```sh
-   yarn
+   yarn install
    ```
 
 4. Start the development server

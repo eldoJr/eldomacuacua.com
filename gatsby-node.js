@@ -100,12 +100,3 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
     },
   })
 }
-
-exports.onCreateBabelConfig = ({ actions }) => {
-  actions.setBabelPlugin({
-    name: "@babel/plugin-proposal-class-properties",
-    options: {
-      loose: true, // Optional: Set to true for more lenient transformation.
-    },
-  })
-}

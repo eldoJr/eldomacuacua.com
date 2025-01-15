@@ -10,7 +10,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "BSD",
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -29,9 +29,12 @@
     ]
   },
   "dependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
     "@mdx-js/util": "^2.0.0",
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^2.1.4",
+    "babel-preset-gatsby": "^3.14.0",
     "framer-motion": "^11.11.17",
     "gatsby": "^5.14.1",
     "gatsby-image": "^3.11.0",
@@ -53,8 +56,8 @@
     "lodash": "^4.17.15",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
@@ -67,7 +70,7 @@
     "@upstatement/prettier-config": "^1.1.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^9.15.0",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "gatsby-remark-code-titles": "^1.1.0",
@@ -75,5 +78,6 @@
     "husky": "^9.1.7",
     "lint-staged": "^15.2.10",
     "prettier": "^3.3.3"
-  }
+  },
+  "packageManager": "yarn@4.6.0"
 }
