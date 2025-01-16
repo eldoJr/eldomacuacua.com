@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://yashitanamdeo.github.io/" target="_blank">Eldo Macuacua's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://eldomacuacua.io/" target="_blank">Eldo Macuácua's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [Yashita Namdeo](https://github.com/yashitanamdeo). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [Eldo A. Macuácua](https://github.com/eldoJr). Thanks!
 
 ## 🛠 Installation & Set Up
 
