@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://eldomacuacua.github.io/sitemap-index.xml
+Host: https://eldomacuacua.github.io

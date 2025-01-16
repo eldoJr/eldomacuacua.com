@@ -36,14 +36,15 @@ const StyledPostContent = styled.div`
 `;
 
 const PostTemplate = ({ data, location }) => {
-  const { frontmatter, html } = data.markdownRemark;
-  const { title, date, tags } = frontmatter;
+  // Destructuring frontmatter and html with default values to prevent errors if any field is missing
+  const { frontmatter = {}, html } = data.markdownRemark || {};
+  const { title = 'Untitled Post', date = 'No date available', tags = [] } = frontmatter;
 
   return (
     <Layout location={location}>
       <Helmet>
         <title>{title} | Eldo Macuacua</title>
-        <link rel="canonical" href="https://github.com/yashitanamdeo/pensieve" />
+        <link rel="canonical" href="https://github.com/eldoJr" />
       </Helmet>
 
       <StyledPostContainer>
@@ -63,8 +64,7 @@ const PostTemplate = ({ data, location }) => {
               })}
             </time>
             <span>&nbsp;&mdash;&nbsp;</span>
-            {tags &&
-              tags.length > 0 &&
+            {tags.length > 0 &&
               tags.map((tag, i) => (
                 <Link key={i} to={`/pensieve/tags/${kebabCase(tag)}/`} className="tag">
                   #{tag}

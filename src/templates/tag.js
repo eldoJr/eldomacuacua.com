@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link, graphql } from 'gatsby';
 import kebabCase from 'lodash/kebabCase';
 import PropTypes from 'prop-types';
@@ -50,6 +50,16 @@ const TagTemplate = ({ pageContext, data, location }) => {
   const { tag } = pageContext;
   const { edges } = data.allMarkdownRemark;
 
+  // Local state for title and description updates
+  const [updatedPosts, setUpdatedPosts] = useState({});
+
+  const handleUpdate = (slug, newTitle, newDescription) => {
+    setUpdatedPosts({
+      ...updatedPosts,
+      [slug]: { title: newTitle, description: newDescription },
+    });
+  };
+
   return (
     <Layout location={location}>
       <StyledTagsContainer>
@@ -68,10 +78,12 @@ const TagTemplate = ({ pageContext, data, location }) => {
         <ul className="fancy-list">
           {edges.map(({ node }) => {
             const { title, slug, date, tags } = node.frontmatter;
+            const updatedPost = updatedPosts[slug] || {};
+
             return (
               <li key={slug}>
                 <h2>
-                  <Link to={slug}>{title}</Link>
+                  <Link to={slug}>{updatedPost.title || title}</Link>
                 </h2>
                 <p className="subtitle">
                   <time>
@@ -90,6 +102,11 @@ const TagTemplate = ({ pageContext, data, location }) => {
                       </Link>
                     ))}
                 </p>
+
+                {/* Example Update Form */}
+                <button onClick={() => handleUpdate(slug, 'Updated Title', 'Updated Description')}>
+                  Update
+                </button>
               </li>
             );
           })}
