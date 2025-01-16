@@ -3956,7 +3956,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"animejs@npm:^3.1.0":
+"animejs@npm:^3.2.2":
   version: 3.2.2
   resolution: "animejs@npm:3.2.2"
   checksum: 10c0/f43dfcc0c743a2774e76fbfcb16a22350da7104f413d9d1b85c48128b0c078090642809deb631e21dfa0a40651111be39d9d7f694c9c1b70d8637ce8b6d63116
@@ -6989,7 +6989,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jsx-a11y@npm:^6.2.3, eslint-plugin-jsx-a11y@npm:^6.8.0":
+"eslint-plugin-jsx-a11y@npm:^6.10.2, eslint-plugin-jsx-a11y@npm:^6.8.0":
   version: 6.10.2
   resolution: "eslint-plugin-jsx-a11y@npm:6.10.2"
   dependencies:
@@ -7023,7 +7023,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react@npm:^7.19.0, eslint-plugin-react@npm:^7.32.2":
+"eslint-plugin-react@npm:^7.32.2, eslint-plugin-react@npm:^7.37.4":
   version: 7.37.4
   resolution: "eslint-plugin-react@npm:7.37.4"
   dependencies:
@@ -7175,7 +7175,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^9.15.0":
+"eslint@npm:^9.18.0":
   version: 9.18.0
   resolution: "eslint@npm:9.18.0"
   dependencies:
@@ -7849,7 +7849,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^11.11.17":
+"framer-motion@npm:^11.18.0":
   version: 11.18.0
   resolution: "framer-motion@npm:11.18.0"
   dependencies:
@@ -8256,7 +8256,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-robots-txt@npm:^1.5.0":
+"gatsby-plugin-robots-txt@npm:^1.8.0":
   version: 1.8.0
   resolution: "gatsby-plugin-robots-txt@npm:1.8.0"
   dependencies:
@@ -10640,9 +10640,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^15.2.10":
-  version: 15.3.0
-  resolution: "lint-staged@npm:15.3.0"
+"lint-staged@npm:^15.4.0":
+  version: 15.4.0
+  resolution: "lint-staged@npm:15.4.0"
   dependencies:
     chalk: "npm:~5.4.1"
     commander: "npm:~12.1.0"
@@ -10656,7 +10656,7 @@ __metadata:
     yaml: "npm:~2.6.1"
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: 10c0/1ddf9488c523c0b65c85b755428d4ad74fac3aa6ccb2e28e9bff5b8d86503158fe241d20d5433a11146872050b43580644901a5ef4c924b1ad7017c224a07339
+  checksum: 10c0/ada9a79a984840c4e51e9e77a00e995151d4a1a410c7aceee8a0403d63fb94ec57531fa752081874c97da12f8809aa6d7645a8b321be0d099a43fe0ac856a9af
   languageName: node
   linkType: hard
 
@@ -13249,7 +13249,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.3.3":
+"prettier@npm:^3.4.2":
   version: 3.4.2
   resolution: "prettier@npm:3.4.2"
   bin:
@@ -13275,7 +13275,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prismjs@npm:^1.17.1":
+"prismjs@npm:^1.29.0":
   version: 1.29.0
   resolution: "prismjs@npm:1.29.0"
   checksum: 10c0/d906c4c4d01b446db549b4f57f72d5d7e6ccaca04ecc670fb85cea4d4b1acc1283e945a9cbc3d81819084a699b382f970e02f9d1378e14af9808d366d9ed7ec6
@@ -13415,7 +13415,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"punycode@npm:^2.1.0, punycode@npm:^2.1.1":
+"punycode@npm:^2.1.0, punycode@npm:^2.1.1, punycode@npm:^2.3.1":
   version: 2.3.1
   resolution: "punycode@npm:2.3.1"
   checksum: 10c0/14f76a8206bc3464f794fb2e3d3cc665ae416c01893ad7a02b23766eb07159144ee612ad67af5e84fa4479ccfe67678c4feb126b0485651b302babf66f04f9e9
@@ -13567,7 +13567,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^18.2.0":
+"react-dom@npm:^18.3.1":
   version: 18.3.1
   resolution: "react-dom@npm:18.3.1"
   dependencies:
@@ -13644,7 +13644,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-transition-group@npm:^4.3.0":
+"react-transition-group@npm:^4.4.5":
   version: 4.4.5
   resolution: "react-transition-group@npm:4.4.5"
   dependencies:
@@ -13659,7 +13659,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.2.0":
+"react@npm:^18.3.1":
   version: 18.3.1
   resolution: "react@npm:18.3.1"
   dependencies:
@@ -14384,7 +14384,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"scrollreveal@npm:^4.0.5":
+"scrollreveal@npm:^4.0.9":
   version: 4.0.9
   resolution: "scrollreveal@npm:4.0.9"
   dependencies:
@@ -14853,7 +14853,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"smooth-scroll@npm:^16.1.0":
+"smooth-scroll@npm:^16.1.3":
   version: 16.1.3
   resolution: "smooth-scroll@npm:16.1.3"
   checksum: 10c0/2772e4e3e459d4977013b6a1c4271c23ad4805112038a5da86810dee63da6a983aa5e312f398c4cd4f25365ef4d4dd34b4e0d72a6fee198de5a8977609c4d184
@@ -15448,7 +15448,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"styled-components@npm:^6.1.13":
+"styled-components@npm:^6.1.14":
   version: 6.1.14
   resolution: "styled-components@npm:6.1.14"
   dependencies:
@@ -16427,15 +16427,15 @@ __metadata:
     "@mdx-js/util": "npm:^2.0.0"
     "@upstatement/eslint-config": "npm:3.0.0"
     "@upstatement/prettier-config": "npm:^1.1.0"
-    animejs: "npm:^3.1.0"
+    animejs: "npm:^3.2.2"
     babel-eslint: "npm:^10.1.0"
     babel-plugin-styled-components: "npm:^2.1.4"
     babel-preset-gatsby: "npm:^3.14.0"
-    eslint: "npm:^9.15.0"
+    eslint: "npm:^9.18.0"
     eslint-config-prettier: "npm:^10.0.1"
-    eslint-plugin-jsx-a11y: "npm:^6.2.3"
-    eslint-plugin-react: "npm:^7.19.0"
-    framer-motion: "npm:^11.11.17"
+    eslint-plugin-jsx-a11y: "npm:^6.10.2"
+    eslint-plugin-react: "npm:^7.37.4"
+    framer-motion: "npm:^11.18.0"
     gatsby: "npm:^5.14.1"
     gatsby-image: "npm:^3.11.0"
     gatsby-plugin-google-analytics: "npm:^5.14.0"
@@ -16443,7 +16443,7 @@ __metadata:
     gatsby-plugin-netlify: "npm:^5.1.1"
     gatsby-plugin-offline: "npm:^6.14.0"
     gatsby-plugin-react-helmet: "npm:^6.14.0"
-    gatsby-plugin-robots-txt: "npm:^1.5.0"
+    gatsby-plugin-robots-txt: "npm:^1.8.0"
     gatsby-plugin-sharp: "npm:^5.14.0"
     gatsby-plugin-sitemap: "npm:^6.14.0"
     gatsby-plugin-styled-components: "npm:^6.14.0"
@@ -16456,19 +16456,20 @@ __metadata:
     gatsby-transformer-sharp: "npm:^5.14.0"
     gh-pages: "npm:^6.3.0"
     husky: "npm:^9.1.7"
-    lint-staged: "npm:^15.2.10"
-    lodash: "npm:^4.17.15"
-    prettier: "npm:^3.3.3"
-    prismjs: "npm:^1.17.1"
-    prop-types: "npm:^15.7.2"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
+    lint-staged: "npm:^15.4.0"
+    lodash: "npm:^4.17.21"
+    prettier: "npm:^3.4.2"
+    prismjs: "npm:^1.29.0"
+    prop-types: "npm:^15.8.1"
+    punycode: "npm:^2.3.1"
+    react: "npm:^18.3.1"
+    react-dom: "npm:^18.3.1"
     react-helmet: "npm:^6.1.0"
-    react-transition-group: "npm:^4.3.0"
-    scrollreveal: "npm:^4.0.5"
+    react-transition-group: "npm:^4.4.5"
+    scrollreveal: "npm:^4.0.9"
     sharp: "npm:^0.33.5"
-    smooth-scroll: "npm:^16.1.0"
-    styled-components: "npm:^6.1.13"
+    smooth-scroll: "npm:^16.1.3"
+    styled-components: "npm:^6.1.14"
   languageName: unknown
   linkType: soft
 
