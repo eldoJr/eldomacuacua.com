@@ -1,5 +1,5 @@
 ---
-date: '202-04-14'
+date: '2024-04-14'
 title: 'Animated Cube with Cursor'
 github: 'https://github.com/eldoJr/animated-cube-JS'
 external: 'https://animated-cube-js.vercel.app/'

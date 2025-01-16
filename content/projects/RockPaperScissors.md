@@ -1,5 +1,5 @@
 ---
-date: '2021-05-15'
+date: '2023-05-15'
 title: 'Rock Paper Scissors Game'
 github: 'https://github.com/eldoJr/rock_paper_scissors_game'
 external: 'https://rock-paper-scissors-game-nine-pearl.vercel.app/'
