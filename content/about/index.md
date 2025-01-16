@@ -12,7 +12,7 @@ skills:
   - Chess
 ---
 
-Hello! I'm Eldo Macuácua, hailing from Inhambane, a province in Mozambique fondly referred to as the "Land of Good People.
+Hello! I'm Eldo António Macuácua, hailing from Inhambane, a province in Mozambique fondly referred to as the **"Land of Good People"**.
 
 I am an innovative, reliable, committed, and results-driven person with solid principles and integrity. I bring enthusiasm, polished communication abilities, exceptional organizational talents, and a keen eye for detail.
 
