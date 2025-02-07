@@ -1,7 +1,7 @@
 ---
 date: '2024-02-21'
 title: 'SuriiTech - Web Development and Digital Marketing Services'
-company: 'SuriiTech'
+company: 'SURIITECH'
 location: remote
 range: 'Feb 2024 - Present'
 url: 'https://www.facebook.com/ErnanesVirgilio/'

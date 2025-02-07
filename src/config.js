@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Eldo Macuacua',
   siteDescription:
-    'Eldo Macuacua is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Eldo Macuacua is an incoming Web Developer, based in Mozambique, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Eldo Macuacua, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Eldo Macuacua, IT engineer, web developer, javascript, python, java, svvv, indore',
   siteUrl: 'https://eldomacuacua.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',

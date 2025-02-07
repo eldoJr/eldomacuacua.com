@@ -1,7 +1,7 @@
 ---
 date: '2021-05-19'
 title: 'IT Support Technician'
-company: 'WKB Comercial e Serviços'
+company: 'WKB COMERCIAL'   
 location: presently
 range: 'May 2021 - June 2022'
 url: 'https://www.facebook.com/WKBSALES/'

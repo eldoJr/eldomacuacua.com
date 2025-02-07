@@ -1,5 +1,5 @@
 ---
-date: '2024-12-28'
+date: '2025-12-28'
 title: 'Artificial Intelligence Internship'
 company: 'TEACHNOOK'
 location: remotly
