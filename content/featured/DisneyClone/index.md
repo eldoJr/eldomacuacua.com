@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Disney+ Clone'
 cover: './disneyclone.png'
 github: 'https://github.com/eldoJr/disney_clone-ReactJS'

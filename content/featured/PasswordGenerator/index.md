@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'Password Generator'
 cover: 'password-generator.png'
 github: 'https://github.com/eldoJr/password_generator-JS'

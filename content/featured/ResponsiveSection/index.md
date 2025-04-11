@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Responsive Section'
 cover: 'image.png'
 github: 'https://github.com/eldoJr/responsive-section'

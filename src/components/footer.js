@@ -106,8 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed by Brittany Chiang<br></br>
-            Revised &amp; Built by Eldo Macuacua
+            &copy; {new Date().getFullYear()} Built by Eldo A. Macuácua
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

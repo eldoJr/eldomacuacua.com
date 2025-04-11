@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: "Eldo Macuacua",
+    title: "Eldo A. Macuácua",
     siteUrl: config.siteUrl,
     description: config.siteDescription,
     image: '/images/og.png',
@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Eldo Macuácua',
-        short_name: 'Eldo Macuácua',
+        name: 'Eldo A. Macuácua',
+        short_name: 'Eldo A. Macuácua',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
